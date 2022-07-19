@@ -1,0 +1,6 @@
+C:\Users\kandi\Desktop\PingTest\server-website-ping-test.exe
+C:\Users\kandi\Desktop\PingTest\server-website-ping-test.dll
+C:\Users\kandi\Desktop\PingTest\server-website-ping-test.deps.json
+C:\Users\kandi\Desktop\PingTest\server-website-ping-test.runtimeconfig.json
+C:\Users\kandi\Desktop\PingTest\server-website-ping-test.pdb
+C:\Users\kandi\Desktop\PingTest\Newtonsoft.Json.dll

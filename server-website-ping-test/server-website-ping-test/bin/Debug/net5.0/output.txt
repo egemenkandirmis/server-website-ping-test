@@ -1,0 +1,814 @@
+{"Date":"21 Ekim 2021 Perşembe 14:35:12","Address":"10.10.41.84","Description":"Admin PC","Status":"DestinationHostUnreachable"}
+{"Date":"21 Ekim 2021 Perşembe 14:35:16","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 14:35:26","Address":"10.10.41.84","Description":"Admin PC","Status":"DestinationHostUnreachable"}
+{"Date":"21 Ekim 2021 Perşembe 14:35:31","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 14:36:12","Address":"10.10.41.84","Description":"Admin PC","Status":"DestinationHostUnreachable"}
+{"Date":"21 Ekim 2021 Perşembe 15:08:34","Address":"10.10.41.84","Description":"Admin PC","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 15:08:34","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 15:08:44","Address":"10.10.41.84","Description":"Admin PC","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 15:08:44","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 15:09:21","Address":"10.10.41.84","Description":"Admin PC","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 15:09:21","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 15:09:31","Address":"10.10.41.84","Description":"Admin PC","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 15:09:32","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 15:09:42","Address":"10.10.41.84","Description":"Admin PC","Status":"TimedOut"}
+{"Date":"21 Ekim 2021 Perşembe 15:09:49","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 15:11:47","Address":"10.10.41.84","Description":"Admin PC","Status":"TimedOut"}
+{"Date":"21 Ekim 2021 Perşembe 15:11:54","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 15:27:38","Address":"10.10.41.84","Description":"Admin PC","Status":"DestinationHostUnreachable"}
+{"Date":"21 Ekim 2021 Perşembe 16:07:06","Address":"10.10.41.84","Description":"Admin PC","Status":"DestinationHostUnreachable"}
+{"Date":"21 Ekim 2021 Perşembe 16:07:07","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 16:31:52","Address":"10.10.41.84","Description":"Admin PC","Status":"DestinationHostUnreachable"}
+{"Date":"21 Ekim 2021 Perşembe 16:31:53","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 16:33:31","Address":"10.10.41.84","Description":"Admin PC","Status":"DestinationHostUnreachable"}
+{"Date":"21 Ekim 2021 Perşembe 16:33:32","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 16:36:29","Address":"10.10.41.84","Description":"Admin PC","Status":"DestinationHostUnreachable"}
+{"Date":"21 Ekim 2021 Perşembe 16:36:30","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 16:42:09","Address":"10.10.41.84","Description":"Admin PC","Status":"DestinationHostUnreachable"}
+{"Date":"21 Ekim 2021 Perşembe 16:42:10","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 16:42:10","Address":"srv-nas","Description":"NAS Sunucusu","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 16:42:10","Address":"srv-web-iis","Description":"Web IIS Sunucusu","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 16:42:10","Address":"zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"Success"}
+{"Date":"21 Ekim 2021 Perşembe 16:42:10","Address":"10.10.41.131","Description":"Test için boş ip adresi","Status":"DestinationHostUnreachable"}
+{"Date":"21 Ekim 2021 Perşembe 16:42:13","Address":"yigisoft.com","Description":"YIGISOFT web ve mobil tabanlı yazılım çözümleri sunan, kaliteli teknik personeliyle sizlere E-Dönüşümde rehberlik eden bir teknoloji firmasıdır.","Status":"TimedOut"}
+{"Date":"25 Ekim 2021 Pazartesi 17:57:39","Address":"srv-dns","Description":"DNS Sunucu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 17:57:39","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 17:57:39","Address":"srv-nas","Description":"NAS Sunucusu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 17:57:39","Address":"srv-web-iis","Description":"Web IIS Sunucusu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 17:59:42","Address":"srv-dns","Description":"DNS Sunucu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 17:59:42","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 17:59:42","Address":"srv-nas","Description":"NAS Sunucusu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 17:59:42","Address":"srv-web-iis","Description":"Web IIS Sunucusu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:01:04","Address":"srv-dns","Description":"DNS Sunucu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:01:04","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:01:04","Address":"srv-nas","Description":"NAS Sunucusu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:01:04","Address":"srv-web-iis","Description":"Web IIS Sunucusu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:01:04","Address":"srv-hp","Description":"Srv HP","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:01:04","Address":"srv-mail","Description":"Srv MAIL","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:01:04","Address":"srv-program","Description":"Srv PROGRAM","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:14","Address":"srv-dns","Description":"DNS Sunucu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:14","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:14","Address":"srv-nas","Description":"NAS Sunucusu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:14","Address":"srv-web-iis","Description":"Web IIS Sunucusu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:14","Address":"srv-hp","Description":"Srv HP","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:14","Address":"srv-mail","Description":"Srv MAIL","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:14","Address":"srv-program","Description":"Srv PROGRAM","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:41","Address":"srv-dns","Description":"DNS Sunucu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:41","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:41","Address":"srv-nas","Description":"NAS Sunucusu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:41","Address":"srv-web-iis","Description":"Web IIS Sunucusu","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:41","Address":"srv-hp","Description":"Srv HP","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:41","Address":"srv-mail","Description":"Srv MAIL","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:41","Address":"srv-program","Description":"Srv PROGRAM","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:41","Address":"srv-spam","Description":"Srv SPAM","Status":"Sunucu bulunamadı"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:44","Address":"srv-ab","Description":"Srv AB","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:44","Address":"zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:44","Address":"2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"Success"}
+{"Date":"25 Ekim 2021 Pazartesi 18:04:44","Address":"ebys.zafer.gov.tr","Description":"EBYS","Status":"TimedOut"}
+{"Date":"26 Ekim 2021 Salı 08:48:46","Address":"srv-dns","Description":"DNS Sunucu","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:48:46","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:48:46","Address":"srv-nas","Description":"NAS Sunucusu","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:48:46","Address":"srv-web-iis","Description":"Web IIS Sunucusu","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:48:46","Address":"srv-hp","Description":"Srv HP","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:48:46","Address":"srv-mail","Description":"Srv MAIL","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:48:46","Address":"srv-program","Description":"Srv PROGRAM","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:48:46","Address":"srv-spam","Description":"Srv SPAM","Status":"Sunucu bulunamadı"}
+{"Date":"26 Ekim 2021 Salı 08:48:48","Address":"srv-ab","Description":"Srv AB","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:48:48","Address":"zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:48:48","Address":"2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:55:39","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:55:39","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:55:39","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:55:39","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:55:39","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:55:39","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:55:39","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:55:39","Address":"srv-spam","Description":"SRV SPAM","Status":"Sunucu bulunamadı"}
+{"Date":"26 Ekim 2021 Salı 08:55:41","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:55:41","Address":"zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 08:55:41","Address":"http://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"26 Ekim 2021 Salı 08:55:42","Address":"http://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"26 Ekim 2021 Salı 08:55:42","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"26 Ekim 2021 Salı 08:55:42","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"26 Ekim 2021 Salı 08:55:43","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"26 Ekim 2021 Salı 08:55:43","Address":"https://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"OK"}
+{"Date":"26 Ekim 2021 Salı 11:15:42","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 11:15:42","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 11:15:42","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 11:15:42","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 11:15:42","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 11:15:42","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 11:15:42","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 11:15:42","Address":"srv-spam","Description":"SRV SPAM","Status":"Sunucu bulunamadı"}
+{"Date":"26 Ekim 2021 Salı 11:15:45","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 11:15:45","Address":"zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"Success"}
+{"Date":"26 Ekim 2021 Salı 11:15:45","Address":"http://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"26 Ekim 2021 Salı 11:15:45","Address":"http://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"26 Ekim 2021 Salı 11:15:45","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"26 Ekim 2021 Salı 11:15:46","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"26 Ekim 2021 Salı 11:15:46","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"26 Ekim 2021 Salı 11:15:47","Address":"https://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"OK"}
+{"Date":"27 Ekim 2021 Çarşamba 08:51:12","Address":"srv-dns","Description":"SRV DNS","Status":"Sunucu bulunamadı"}
+{"Date":"27 Ekim 2021 Çarşamba 08:51:14","Address":"srv-dc1","Description":"Domain Controller","Status":"Sunucu bulunamadı"}
+{"Date":"27 Ekim 2021 Çarşamba 08:51:17","Address":"srv-nas","Description":"SRV NAS","Status":"Sunucu bulunamadı"}
+{"Date":"27 Ekim 2021 Çarşamba 08:51:19","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Sunucu bulunamadı"}
+{"Date":"27 Ekim 2021 Çarşamba 08:51:21","Address":"srv-hp","Description":"SRV HP","Status":"Sunucu bulunamadı"}
+{"Date":"27 Ekim 2021 Çarşamba 08:51:24","Address":"srv-mail","Description":"SRV MAIL","Status":"Sunucu bulunamadı"}
+{"Date":"27 Ekim 2021 Çarşamba 08:51:40","Address":"srv-dns","Description":"SRV DNS","Status":"Sunucu bulunamadı"}
+{"Date":"27 Ekim 2021 Çarşamba 08:51:42","Address":"srv-dc1","Description":"Domain Controller","Status":"Sunucu bulunamadı"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:50","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:50","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:50","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:50","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:50","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:50","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:50","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:50","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:50","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:51","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:51","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:51","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:52","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:52","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"27 Ekim 2021 Çarşamba 08:53:53","Address":"https://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:04:34","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:04:34","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:04:34","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:04:34","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:04:34","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:04:34","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:04:34","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:04:34","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:04:34","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:04:35","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:04:35","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:06:22","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:06:22","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:06:22","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:06:22","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:06:22","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:06:22","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:06:22","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:06:22","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:06:22","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:06:23","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:06:23","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:09","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:09","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:09","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:09","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:09","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:09","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:09","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:09","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:09","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:10","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:10","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:22","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:22","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:22","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:22","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:22","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:22","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:22","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:22","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:22","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:23","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:07:23","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:11:17","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:11:17","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:11:17","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:11:17","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:11:17","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:11:17","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:11:17","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:11:17","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:11:17","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:11:18","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:11:18","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:13:09","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:13:09","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:13:09","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:13:09","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:13:09","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:13:09","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:13:09","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:13:09","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:13:09","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:13:09","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:13:10","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"28 Ekim 2021 Perşembe 09:14:24","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:14:24","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:14:24","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:14:24","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:14:24","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:14:24","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:14:24","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:14:24","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"28 Ekim 2021 Perşembe 09:14:24","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:29","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:29","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:29","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:29","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:29","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:29","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:29","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:29","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:29","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:30","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:30","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:30","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:30","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:30","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:30","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:30","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:30","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:30","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:30","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:30","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:31","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:31","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:31","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:31","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:31","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:31","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:31","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:31","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:31","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:31","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:31","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:31","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:32","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:32","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:32","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:32","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:32","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:32","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:32","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:32","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:32","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:32","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:32","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:33","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:34","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:34","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:34","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:34","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:34","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:34","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:34","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:34","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:34","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:34","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:35","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:35","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:35","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:35","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:35","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:35","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:35","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:35","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:35","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:35","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:36","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:37","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:37","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:37","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:37","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:37","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:37","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:37","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:37","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:37","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:37","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:37","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:39","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:39","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:39","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:39","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:39","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:39","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:39","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:39","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:39","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:39","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:39","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:40","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:40","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:40","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:40","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:40","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:40","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:40","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:40","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:40","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:40","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:41","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:42","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:42","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:42","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:42","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:42","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:42","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:42","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:42","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:42","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:42","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:42","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:44","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:44","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:44","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:44","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:44","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:44","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:44","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:44","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:44","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:44","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:44","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:45","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:46","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:46","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:46","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:46","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:46","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:46","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:46","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:46","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:46","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:46","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:47","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:47","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:47","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:47","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:47","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:47","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:47","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:47","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:47","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:47","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:48","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:49","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:49","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:49","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:49","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:49","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:49","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:49","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:49","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:49","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:49","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:49","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:51","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:51","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:51","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:51","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:51","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:51","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:51","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:51","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:51","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:51","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:51","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:52","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:52","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:52","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:52","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:52","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:52","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:52","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:52","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:52","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:52","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:53","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:53","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:53","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:53","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:53","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:53","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:53","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:53","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:53","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:53","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:53","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:53","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:54","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:55","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:55","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:55","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:55","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:55","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:55","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:55","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:55","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:55","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:55","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:55","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:55","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:55","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:56","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:57","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:58","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:58","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:58","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:58","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:58","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:58","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:58","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:58","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:58","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:58","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:58","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:58","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:50:59","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:00","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:00","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:00","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:00","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:00","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:00","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:00","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:00","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:00","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:00","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:00","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:00","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:00","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:01","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:02","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:02","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:02","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:02","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:02","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:02","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:02","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:02","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:02","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:02","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:02","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:02","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:03","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:04","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:04","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:04","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:04","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:04","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:04","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:04","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:04","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:04","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:35","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:35","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:35","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:35","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:35","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:35","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:35","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:35","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:51:35","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:36","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:51:36","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:56:54","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:56:55","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:56:55","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:56:55","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:56:55","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:56:55","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:56:55","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:56:55","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:56:55","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:56:55","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:56:55","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:58:05","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:05","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:05","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:05","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:05","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:05","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:05","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:05","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:05","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:58:05","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:58:06","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:58:25","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:25","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:25","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:25","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:25","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:25","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:25","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:25","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:25","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:58:25","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:58:26","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:58:34","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:34","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:34","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:34","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:34","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:34","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:34","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:34","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 16:58:34","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:58:35","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 16:58:35","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:03:05","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:03:05","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:03:05","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:03:05","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:03:05","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:03:05","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:03:05","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:03:05","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:03:05","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:03:06","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:03:06","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:03:06","Address":"http://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"An error occurred while sending the request."}
+{"Date":"5 Kasım 2021 Cuma 17:03:06","Address":"http://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"An error occurred while sending the request."}
+{"Date":"5 Kasım 2021 Cuma 17:03:06","Address":"http://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"An error occurred while sending the request."}
+{"Date":"5 Kasım 2021 Cuma 17:03:06","Address":"http://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"An error occurred while sending the request."}
+{"Date":"5 Kasım 2021 Cuma 17:07:34","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:07:35","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:07:35","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:07:35","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:07:35","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:07:35","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:07:35","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:07:35","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:07:35","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:07:35","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:07:35","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:07:35","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:07:36","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:07:36","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:07:37","Address":"https://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:09:52","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:09:52","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:09:52","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:09:52","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:09:52","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:09:52","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:09:52","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:09:52","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"5 Kasım 2021 Cuma 17:09:52","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:09:52","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:09:53","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:09:53","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:09:53","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:09:53","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"5 Kasım 2021 Cuma 17:09:54","Address":"https://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:29","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:30","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:30","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:30","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:30","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:30","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:30","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:30","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:30","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:30","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:30","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:31","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:31","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:31","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:32","Address":"https://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:05:33","Address":"srv-host","Description":"Failed Test Ping","Status":"Sunucu bulunamadı"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:21","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:21","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:21","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:21","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:21","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:21","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:21","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:21","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:21","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:22","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:22","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:22","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:23","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:23","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:24","Address":"https://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:08:25","Address":"srv-host","Description":"Failed Test Ping","Status":"Sunucu bulunamadı"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:33","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:33","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:33","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:33","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:33","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:33","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:33","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:33","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:33","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:33","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:34","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:34","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:34","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:34","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:41","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:41","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:41","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:41","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:41","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:41","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:41","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:41","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:41","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:42","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:42","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:42","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:43","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:43","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:44","Address":"https://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:11:44","Address":"srv-host","Description":"Failed Test Ping","Status":"Sunucu bulunamadı"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:32","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:32","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:32","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:32","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:32","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:32","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:32","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:32","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:32","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:33","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:33","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:33","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:34","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:34","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:35","Address":"https://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:15:35","Address":"srv-host","Description":"Failed Test Ping","Status":"Sunucu bulunamadı"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:03","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:03","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:03","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:03","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:03","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:03","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:03","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:03","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:03","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:03","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:03","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:03","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:04","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:04","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:16:05","Address":"https://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:14","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:14","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:14","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:14","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:14","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:14","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:14","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:14","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:14","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:15","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:15","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:15","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:16","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:16","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:17","Address":"https://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:18:17","Address":"srv-host","Description":"Failed Test Ping","Status":"Sunucu bulunamadı"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:09","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:09","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:09","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:09","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:09","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:09","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:09","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:09","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:09","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:10","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:10","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:10","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:11","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:11","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:12","Address":"https://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:20:13","Address":"srv-host","Description":"Failed Test Ping","Status":"Sunucu bulunamadı"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:28","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:29","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:29","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:29","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:29","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:29","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:29","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:29","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:29","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:29","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:29","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:29","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:30","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:30","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:31","Address":"https://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:21:32","Address":"srv-host","Description":"Failed Test Ping","Status":"Sunucu bulunamadı"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:30","Address":"srv-dns","Description":"SRV DNS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:30","Address":"srv-dc1","Description":"Domain Controller","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:30","Address":"srv-nas","Description":"SRV NAS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:30","Address":"srv-web-iis","Description":"SRV Web IIS","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:30","Address":"srv-hp","Description":"SRV HP","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:30","Address":"srv-mail","Description":"SRV MAIL","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:30","Address":"srv-program","Description":"SRV PROGRAM","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:30","Address":"srv-ab","Description":"SRV AB","Status":"Success"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:30","Address":"https://zafer.gov.tr","Description":"Zafer Kalkınma Ajansı Web Sitesi","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:31","Address":"https://2023.zafer.org.tr","Description":"2023 Zafer Org","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:31","Address":"https://ebys.zafer.gov.tr","Description":"EBYS","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:31","Address":"https://investinafyon.ka.gov.tr","Description":"Invest in Afyon","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:32","Address":"https://investinkutahya.ka.gov.tr","Description":"Invest in Kütahya","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:32","Address":"https://investinmanisa.ka.gov.tr","Description":"Invest in Manisa","Status":"OK"}
+{"Date":"29 Kasım 2021 Pazartesi 10:22:33","Address":"https://investinusak.ka.gov.tr","Description":"Invest in Uşak","Status":"OK"}

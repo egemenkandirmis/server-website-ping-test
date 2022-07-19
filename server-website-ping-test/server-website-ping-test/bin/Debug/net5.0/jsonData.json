@@ -1,0 +1,62 @@
+[
+    {
+        "IpAddress" : "srv-dns",
+        "Description" : "SRV DNS"
+    },
+    {
+        "IpAddress" : "srv-dc1",
+        "Description" : "Domain Controller"
+    },
+    {
+        "IpAddress" : "srv-nas",
+        "Description" : "SRV NAS"
+    },
+    {
+        "IpAddress" : "srv-web-iis",
+        "Description" : "SRV Web IIS"
+    },
+    {
+        "IpAddress" : "srv-hp",
+        "Description" : "SRV HP"
+    },
+    {
+        "IpAddress" : "srv-mail",
+        "Description" : "SRV MAIL"
+    },
+    {
+        "IpAddress" : "srv-program",
+        "Description" : "SRV PROGRAM"
+    },
+    {
+        "IpAddress" : "srv-ab",
+        "Description" : "SRV AB"
+    },
+    {
+        "IpAddress" : "https://zafer.gov.tr",
+        "Description" : "Zafer Kalkınma Ajansı Web Sitesi"
+    },
+    {
+        "IpAddress" : "https://2023.zafer.org.tr",
+        "Description" : "2023 Zafer Org"
+    },
+    {
+        "IpAddress" : "https://ebys.zafer.gov.tr",
+        "Description" : "EBYS"
+    },
+    {
+        "IpAddress" : "https://investinafyon.ka.gov.tr",
+        "Description" : "Invest in Afyon"
+    },
+    {
+        "IpAddress" : "https://investinkutahya.ka.gov.tr",
+        "Description" : "Invest in Kütahya"
+    },
+    {
+        "IpAddress" : "https://investinmanisa.ka.gov.tr",
+        "Description" : "Invest in Manisa"
+    },
+    {
+        "IpAddress" : "https://investinusak.ka.gov.tr",
+        "Description" : "Invest in Uşak"
+    }
+]

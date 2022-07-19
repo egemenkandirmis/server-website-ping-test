@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PGsi17UnwK4PLw29laPDHcTL9sh2rNzHS4D+rNKB7aXXcChU9lPnc797foU5rPxOHM+z5Dj0/2PM7C/dLk4nhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kandi\\source\\Github\\server-website-ping-test\\server-website-ping-test\\server-website-ping-test\\server-website-ping-test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kandi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\kandi\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.8\\microsoft.netcore.app.runtime.win-x86.5.0.8.nupkg.sha512",
+    "C:\\Users\\kandi\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.8\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.8.nupkg.sha512",
+    "C:\\Users\\kandi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.8\\microsoft.aspnetcore.app.runtime.win-x86.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
